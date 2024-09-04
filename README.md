@@ -9,7 +9,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/wilsonwanjiru-cmd/router
 Navigate to the project directory:
 
 bash
